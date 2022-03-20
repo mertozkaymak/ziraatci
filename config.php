@@ -4,9 +4,9 @@ if(!defined("CONFIG")) {
 }
 
 $cfg = [
-    "db_name"       => "ziraatci",
-    "db_user"       => "ziraatci",
-    "db_password"   => "Digital1357*c"
+    "db_name"       => "***",
+    "db_user"       => "***",
+    "db_password"   => "***"
 ];
 
 ?>
