@@ -14,7 +14,7 @@
         selectedShippingAddress: new Object(),
         injects:{
             districts: localStorage.getItem("districts") == null ? {} : JSON.parse(localStorage.getItem("districts")),
-            serviceEndpoint: "https://dev.digitalfikirler.com/ziraatci/request.php",
+            serviceEndpoint: "***/request.php",
             couponCode: "Hw3h69",
             wait: 0,
             selectedShippingDistrict: "",
